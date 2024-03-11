@@ -1,6 +1,6 @@
 {
   "name": "onedionys-date-time-utilities",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Date Time Utilities) - Functions to manipulate and format the date and time.",
   "main": "src/dateUtils.js",
   "directories": {
