@@ -40,6 +40,7 @@ console.log(formattedDate); // Output: "07-03-2022" (example)
 ## 📆 Release Date
 
 * v1.0.0 : 07 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
