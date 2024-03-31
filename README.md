@@ -44,6 +44,7 @@ console.log(formattedDate); // Output: "07-03-2022" (example)
 * v4.0.0 : 11 March 2024
 * v4.0.1 : 13 March 2024
 * v4.0.2 : 18 March 2024
+* v5.0.0 : 31 March 2024
 
 ## 🧑 Author
 
